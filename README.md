@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-F7A8C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sarahshajahan.1318@gmail.com"><img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-E8A0BF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <img src="https://komarev.com/ghpvc/?username=sarahshaikh13&label=Profile+views&color=F7A8C4&style=for-the-badge" alt="Profile views"/>
 </p>
@@ -70,11 +70,9 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Project One**](https://github.com/sarahshaikh13) | One line on the problem it solves | Python · TensorFlow |
-| [**Project Two**](https://github.com/sarahshaikh13) | One line on the problem it solves | PyTorch · OpenCV |
-| [**Project Three**](https://github.com/sarahshaikh13) | One line on the problem it solves | scikit-learn · Streamlit |
+| [**domain-expansion-study-assistance **](https://github.com/sarahshaikh13/domain-expansion-study-assistance) | study assistance | Python |
 
-> 💡 Swap these three rows for your real repos — pinned repos + this table is what recruiters actually read.
+> just new to github world, soon more projects will be added here
 
 ---
 
