@@ -1,6 +1,6 @@
 <!-- ═══════════════ BANNER ═══════════════ -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="cherry blossoms" width="100%" />
+  <img src="banner.jpg" alt="cherry blossoms" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sarah Shaikh 🌸</h1>
